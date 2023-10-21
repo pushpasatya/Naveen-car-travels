@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.fig{
+border: 1px solid grey;
+height: 380px;
+}
+.fig img{
+ width: 200px;
+ height:180px;
+
+}
+.hd img{
+    width: 100%;
+}
+.card-footer{
+    border: none;
+}
+.fig1{
+    border: 1px solid grey;
+    height: 500px; 
+}
+.fig1 img{
+    width: 200px;
+    height:180px;
+   
+   }
+
+
+
